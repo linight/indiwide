@@ -1,0 +1,6 @@
+app-root:host h1{
+  background-color: rgba(187, 173, 243, 0.68);
+  font-family: 'Open Sans, tahoma, serif';
+  font-weight: lighter;
+  color: white;
+}
