@@ -43,6 +43,7 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-thymeleaf')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile('org.springframework.boot:spring-boot-starter-websocket')
+	compile('org.springframework.boot:spring-boot-starter-security')
 	compile('org.flywaydb:flyway-core')
 	compile('org.springframework.retry:spring-retry')
 	compile('org.springframework.session:spring-session-jdbc')
